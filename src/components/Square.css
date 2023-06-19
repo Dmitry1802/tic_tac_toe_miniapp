@@ -1,0 +1,11 @@
+.square-size {
+  height: 16vh;
+  width: 16vw;
+  padding-top: 6vh;
+  display: inline-flex;
+}
+
+
+.square-div {
+  font-size: large;
+}
